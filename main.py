@@ -1,1 +1,5 @@
 print("clase 4 ensayo 4")
+print("actividades practicas a desarrollar")
+print("Me encanta estudiar Pyton")
+print("Estudiar con "Pyton total" es super divertido")
+print("600-45")
